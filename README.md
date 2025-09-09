@@ -1,6 +1,6 @@
 # STMFormer
 Official implementation of STMFormer, a lightweight hybrid neural network for efficient sensor-based Human Activity Recognition (HAR). It features Spatio-Temporal Modulation (STM) attention, integrating ConvNets and Transformers for optimal accuracy-latency trade-off on mobile and edge devices.
 
-**Edge Device Demo:** Running STMFormer on a Raspberry Pi:  
+**Practical Demo Video:** Running STMFormer on a Raspberry Pi:  
 
 ![demo video](https://github.com/Luminary-Chen/STMFormer/blob/main/STMFormer.gif)
