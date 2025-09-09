@@ -3,3 +3,4 @@ Official implementation of STMFormer, a lightweight hybrid neural network for ef
 
 
 Both the source code and demo video are currently being prepared and will be released soon.
+https://github.com/Luminary-Chen/STMFormer/blob/main/STMFormer.gif
