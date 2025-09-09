@@ -4,3 +4,6 @@ Official implementation of STMFormer, a lightweight hybrid neural network for ef
 **Practical Demo Video:** Running STMFormer on a Raspberry Pi:  
 
 ![demo video](https://github.com/Luminary-Chen/STMFormer/blob/main/STMFormer.gif)
+
+> **📹 Video Quality Note**  
+> The GIF above is a compressed preview. For full HD quality, please download the [MP4 version](./Demo_video/demo.mp4).
