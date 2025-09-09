@@ -6,4 +6,4 @@ Official implementation of STMFormer, a lightweight hybrid neural network for ef
 ![demo video](https://github.com/Luminary-Chen/STMFormer/blob/main/STMFormer.gif)
 
 > **📹 Video Quality Note**  
-> The GIF above is a compressed preview. For full HD quality, please download the [MP4 version](./Demo-video/demo.mp4)
+> The GIF above is a compressed preview. For full HD quality, please download the [MP4 version](./Demo-video)
